@@ -20,13 +20,21 @@ End the program
 ## PROGRAM:
 
 #Program to swap two values.
+
 #Developed by: Janarthanan
+
 #RegisterNumber:21222220030051
+
 n1=float(input())
+
 n2=float(input())
+
 t=n2
+
 n2=n1
+
 n1=t
+
 print("Swapped values are: %.1f %.1f"%(n1,n2))
 
 ## OUTPUT:
