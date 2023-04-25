@@ -28,7 +28,8 @@ t=n2
 n2=n1
 n1=t
 print("Swapped values are: %.1f %.1f"%(n1,n2))
-##OUTPUT:
+
+## OUTPUT:
 ![Screenshot 2023-04-25 142440](https://user-images.githubusercontent.com/119393515/234282682-74dd7fac-f7a9-402a-86e6-0b7a5abc49d0.png)
 
 
